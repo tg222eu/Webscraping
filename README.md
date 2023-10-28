@@ -11,4 +11,6 @@ Integrate git with pycharm. In the toolbar under VCS, go to "Enable Version Cont
 
 Configure pycharms default browser: Press ctrl + alt + S, under Tools -> Web Browser and Preview, in Default Browser change it to "First listed" so chrome will be selected
 
-In File -> settings -> version control -> Github add your github account
+In File -> settings -> version control -> Github add your github account, then clone a repository
+
+
